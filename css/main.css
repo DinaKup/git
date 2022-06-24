@@ -1,7 +1,5 @@
-body {
-    background-color: rgb(31, 204, 59);
-}
+body {background-color: rgb(31, 204, 59);}
 p {
     color: aqua;
-}
+} //Новый коммент
 h2 { font-size: 50px;}
